@@ -1,16 +1,16 @@
 # Mereocausality
 
-I develop a novel concept that I call "mereocausality" (and cognates such as "mereocausation", "mereotopological causality", etc.).
+I develop a novel concept that I call "mereocausality" (and cognates such as "mereocausation", "mereotopological causality", etc.). I combine the concepts of parthood and causality to posit that of mereocausality, asking questions of causality of parts and their composed whole. 'Mereo' is from the Greek 'μερος' or ‘part’, which is presently pronounced as 'meros'. 'αιτία' is Greek for 'cause'. 
 
-### Scope
-Causality, mereology, topology, mereotopology, philosophy of these concepts and theories, formal ontological analysis thereof, knowledge representaiton applied to these topics, etc.
+## Scope
+Causality, mereology, topology, mereotopology, philosophy of these concepts and theories thereof, formal ontological and conceptual analysis thereof, knowledge representaiton applied to these topics, etc.
 
-### Purpose
+## Purpose
 - To contribute to the intellectual research and disciplines such as philosophy (generaL), philosophy of causality, mereology, philosophy of science, coneptual analysis, formal ontology, knowledge representation and reasoning, conceptual modeling, etc.
 - To explore and theorize about the intersection of causality and mereology (and topology). To posit theories or accounts thereof.
 - To potentially identify or posit metaphyiscal, formal ontological, and/or artifiical relations of what I call 'mereocausation'.
 
-### Status
+## Status
 - In progress, dependent on support
 - As a personal project, unfunded to date, support is needed.
 
