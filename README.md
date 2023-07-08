@@ -38,6 +38,10 @@ You can help by offerring financial support, employment opportunities, graduate 
   - Synthese rejected 2023)
 - "Mereocausality: A new concept for ontology.", poster submission accepted (but not presented) to Ontocommonss 2nd Horizontal Workshop, May 2023.
 
+## History & Origins
+These two concepts and topics of study--causality and mereology--have been a primary interest, intended to be pursued were I to find a PhD study option. 
+Causality has been a longstanding intellectual interest since my undergraduate studies (2003-2007), where I formally studied the philosphy of causality/causation. Interest in mereology began upon its discovery in my graduate studies (2009), which was followed by work opportunities involving causal theories and symbolic logic During these activities I began to wonder about and posit categories such as 'causal system', and whether there are causal kinds (another unpubblished paper as of June 2023). I also wondered if causality varied based on parts in relation to their whole. Hence, I coined the term 'mereocausality' to signify the (potential) causality/causation among parts and their whole or among types of parts.
+
 ## Copyright
 ©2014-2023, Robert J. Rovetto. All rights reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
