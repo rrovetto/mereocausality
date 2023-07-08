@@ -9,6 +9,7 @@ Causality, mereology, topology, mereotopology, philosophy of these concepts and 
 - To contribute to the intellectual research and disciplines such as philosophy (generaL), philosophy of causality, mereology, philosophy of science, coneptual analysis, formal ontology, knowledge representation and reasoning, conceptual modeling, etc.
 - To explore and theorize about the intersection of causality and mereology (and topology). To posit theories or accounts thereof.
 - To potentially identify or posit metaphyiscal, formal ontological, and/or artifiical relations of what I call 'mereocausation'.
+- To innovate in concept development & analysis, semantic analysis, formal ontology and philosophy. 
 
 ## Status
 - In progress, dependent on support
@@ -22,6 +23,7 @@ You can help by offerring financial support, employment opportunities, graduate 
 ## Author/Creator
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
 - Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
+- [Contact](mailto:rrovetto@terpalum.umd.edu)
   
 ## Relevant Works by Author
 - [Proof of ideation as early as 2014](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
