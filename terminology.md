@@ -1,20 +1,35 @@
 # The Terminology Mereocausality
 
-Mereology
-Topology
-Mereotopology
-Causality
-Causation
-Cause
-Effect
+| Term  | Description or Definition |
+| ------------- | ------------- |
+| Mereology  | ...  |
+| Topology  | ...  |
+| Mereotopology  | ...  |
+| Causality  | ...  |
+| Causation  | ...  |
+| Cause  | ...  |
+| Effect  | ...  |
+| Mereocausality  | Content Cell  |
+| Mereocausation | Content Cell  |
+| Mereotopocausality | Content Cell  |
+| Mereotopocausation  | Content Cell  |
+| Cauasl Mereology | Content Cell  |
+| Causal Mereotopology | Content Cell  |
+| Causal part | Content Cell  |
 
-Mereocausality
-Mereocausation
-Mereotopocausality
-Mereotopocausation
-Cauasl Mereology
-Causal Mereotopology
-Causal part
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Copyright
