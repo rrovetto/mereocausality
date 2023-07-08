@@ -13,6 +13,8 @@
 | Mereocausation |  |
 | Mereotopocausality |  |
 | Mereotopocausation  |  |
+| Topocausality |  |
+| Topocausation |  |
 | Cauasl Mereology |  |
 | Causal Mereotopology |  |
 | Causal part |   |
