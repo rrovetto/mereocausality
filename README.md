@@ -12,18 +12,17 @@ Causality, mereology, topology, mereotopology, philosophy of these concepts and 
 
 ### Status
 - In progress, dependent on support
-- As a personal project, support is needed.
+- As a personal project, unfunded to date, support is needed.
 
 ## Support - How you can help
 You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
-* Donate: 
-  * [PayPal](https://tinyurl.com/donateViaPayPalrr)
-
+* Donate via [PayPal](https://tinyurl.com/donateViaPayPalrr) or contact me for other ways to formally support.
 
 ## Author/Creator
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
-
+- Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
+  
 ## Relevant Works by Author
 - [Proof of ideation as early as 2014](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
 - Unpublished paper(s) (example title: "Mereocausality and Causal Mereology") submitted to, but rejected from, workshops and journals since at least 2021:
