@@ -27,7 +27,6 @@ You can help by offerring financial support, employment opportunities, graduate 
 - [Contact](mailto:rrovetto@terpalum.umd.edu)
   
 ## Relevant Works by Author
-- [Proof of ideation as early as 2014](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
 - Unpublished paper(s) (example title: "Mereocausality and Causal Mereology") submitted to, but rejected from, workshops and journals since at least 2021:
   - Inquiry, 2021
   - European Journal of Philosophy, 2021
@@ -45,6 +44,8 @@ You can help by offerring financial support, employment opportunities, graduate 
 ## History & Origins
 These two concepts and topics of study--causality and mereology--have been a primary interest, intended to be pursued were I to find a PhD study option. 
 Causality has been a longstanding intellectual interest since my undergraduate studies (2003-2007), where I formally studied the philosphy of causality/causation. Interest in mereology began upon its discovery in my graduate studies (2009), which was followed by work opportunities involving causal theories and symbolic logic During these activities I began to wonder about and posit categories such as 'causal system', and whether there are causal kinds (another unpubblished paper as of June 2023). I also wondered if causality varied based on parts in relation to their whole. Hence, I coined the term 'mereocausality' to signify the (potential) causality/causation among parts and their whole or among types of parts.
+- [Proof of ideation as early as 2014](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
+
 
 ## Copyright
 ©2014-2023, Robert J. Rovetto. All rights reserved.
