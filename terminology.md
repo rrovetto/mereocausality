@@ -2,20 +2,20 @@
 
 | Term  | Description or Definition |
 | ------------- | ------------- |
-| Mereology  | ...  |
-| Topology  | ...  |
-| Mereotopology  | ...  |
-| Causality  | ...  |
-| Causation  | ...  |
-| Cause  | ...  |
-| Effect  | ...  |
-| Mereocausality  | ... |
-| Mereocausation | ... |
-| Mereotopocausality | ... |
-| Mereotopocausation  | ... |
-| Cauasl Mereology | ... |
-| Causal Mereotopology | ... |
-| Causal part | ...  |
+| Mereology  |   |
+| Topology  |   |
+| Mereotopology  |   |
+| Causality  |   |
+| Causation  |   |
+| Cause  |   |
+| Effect  |   |
+| Mereocausality  |  |
+| Mereocausation |  |
+| Mereotopocausality |  |
+| Mereotopocausation  |  |
+| Cauasl Mereology |  |
+| Causal Mereotopology |  |
+| Causal part |   |
 
 
 
