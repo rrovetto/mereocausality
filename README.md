@@ -26,12 +26,17 @@ You can help by offerring financial support, employment opportunities, graduate 
 
 ## Relevant Works by Author
 - [Proof of ideation as early as 2014](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
-- Unpublished paper(s), such as "Mereocausality and Causal Mereology", submitted (but rejected as of June 2023) to workshops and journals since at least 2021:
-  - Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
+- Unpublished paper(s) (example title: "Mereocausality and Causal Mereology") submitted to, but rejected from, workshops and journals since at least 2021:
   - Inquiry, 2021
   - European Journal of Philosophy, 2021
+  - Review of Metaphysics, 2021
+  - Journal of Philosophy, 2021
+  - FOIS 2021
+  - ER-2022, International Conference on Coneptual Modeling
+  - Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
   - Canadian Journal of Philosophy
   - "Mereocausality & Causal Mereology: Towards a new formal concept", submitted to 7th FOUST workshop 2023 (but rejected).
+  - Synthese rejected 2023)
 - "Mereocausality: A new concept for ontology.", poster submission accepted (but not presented) to Ontocommonss 2nd Horizontal Workshop, May 2023.
 
 ## Copyright
