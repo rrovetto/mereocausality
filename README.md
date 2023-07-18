@@ -39,16 +39,15 @@ Causality has been a longstanding intellectual interest since my undergraduate s
 - Unpublished paper(s) (Sample titles: "Mereocausality and Causal Mereology") submitted to, but rejected from, workshops and journals since at least 2021:
   - Analysis
   - Inquiry, 2021
-  - Review of Metaphysics, 2021
-  - Journal of Philosophy, 2021
+  - Synthese journal
+  - Review of Metaphysics
+  - Journal of Philosophy
   - Canadian Journal of Philosophy
-  - European Journal of Philosophy, 2021
+  - European Journal of Philosophy
   - FOIS 2021 - International Conference on Formal Ontology in Information Systems
   - ER-2022, International Conference on Coneptual Modeling
   - EKAW - International Conference on Knowledge Engineering and Knowledge Management
-  - 7th FOUST workshop 2023
-  - Synthese journal in 2023
-  
+  - 7th FOUST workshop at FOIS 2023
 
 ## Copyright
 ©2014-2023, Robert J. Rovetto. All rights reserved.
