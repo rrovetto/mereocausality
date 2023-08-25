@@ -1,4 +1,4 @@
-# Mereocausality
+# Mereocausality, Mereocausation and Causal Mereotopology
 
 I develop a novel concept that I call "mereocausality" (and cognates such as "mereocausation", "mereotopological causality", etc.). I combine the concepts of parthood and causality to posit that of mereocausality, asking questions of causality of parts and their composed whole. 'Mereo' is from the Greek 'μερος' or ‘part’, which is presently pronounced as 'meros'. 'αιτία' is Greek for 'cause'. I also develop the concept of _mereotopocausality_ to further merge that of mereotopology, which in turn is a combination of mereology and topology.
 
@@ -13,7 +13,7 @@ Causality, mereology, topology, mereotopology, philosophy of these concepts and 
 - To develop a formal theory, utilizing symbolic logics, of mereocausality
 
 ## Status
-- In progress, dependent on support
+- In progress.
 - As a personal project, unfunded to date, support is needed.
 
 ## Support - How you can help
