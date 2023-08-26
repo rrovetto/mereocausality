@@ -1,4 +1,5 @@
-# The Terminology Mereocausality
+# The Terminology of Mereocausality
+by Robert J. Rovetto
 
 | Term  | Description or Definition |
 | ------------- | ------------- |
