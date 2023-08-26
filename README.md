@@ -6,18 +6,18 @@ I develop a novel concept that I call "mereocausality" (and cognates such as "me
 Causality, mereology, topology, mereotopology, philosophy of these concepts and theories thereof, formal ontological and conceptual analysis thereof, knowledge representaiton applied to these topics, etc.
 
 ## Purpose
-- To contribute to the intellectual research and disciplines such as philosophy (generaL), philosophy of causality, mereology, philosophy of science, coneptual analysis, formal ontology, knowledge representation and reasoning, conceptual modeling, etc.
+- To contribute to intellectual research, and disciplines such as philosophy (general), philosophy of causality, mereology, philosophy of science, coneptual analysis, formal ontology, knowledge representation and reasoning (in artificial intelligence), conceptual modeling, etc.
 - To explore and theorize about the intersection of causality and mereology (and topology). To posit theories or accounts thereof.
 - To potentially identify or posit metaphyiscal, formal ontological, and/or artifiical relations of what I call 'mereocausation'.
 - To innovate in concept development & analysis, semantic analysis, formal ontology and philosophy.
-- To develop a formal theory, utilizing symbolic logics, of mereocausality
+- To develop a formal theory, utilizing symbolic logics, of mereocausality and causal mereotopolgy
 
 ## Status
 - In progress.
-- As a personal project, unfunded to date, support is needed.
+- As a personal project, unfunded to date (since approx. 2014), support is needed.
 
 ## Support - How you can help
-You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
+You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposals, mentorship, etc. [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
 * Donate via [PayPal](https://tinyurl.com/donateViaPayPalrr) or contact me for other ways to formally support.
 
@@ -27,9 +27,9 @@ You can help by offerring financial support, employment opportunities, graduate 
 - [Contact](mailto:rrovetto@terpalum.umd.edu)
 
 ## History & Origins
-These two concepts and topics of study--causality and mereology--have been a primary interest, intended to be pursued were I to find a PhD study option. 
-Causality has been a longstanding intellectual interest since my undergraduate studies (2003-2007), where I formally studied the philosphy of causality/causation. Interest in mereology began upon its discovery in my graduate studies (2009), which was followed by work opportunities involving causal theories and symbolic logic During these activities I began to wonder about and posit categories such as 'causal system', and whether there are causal kinds (another unpubblished paper as of June 2023). I also wondered if causality varied based on parts in relation to their whole. Hence, I coined the term 'mereocausality' to signify the (potential) causality/causation among parts and their whole or among types of parts.
-- [Proof of ideation as early as 2014](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
+Causality and mereology have been a primary interest of mine since my university studies (approx. 2003-2011), intended to be pursued were I to find a PhD study option. 
+Causality, in particular, has been a longstanding intellectual interest since my undergraduate studies (2003-2007), where I formally studied the philosphy of causality/causation. Interest in mereology began upon its discovery in my graduate studies (2009), which was followed by a research opportunity wherein I further researched causal theories and symbolic logic. In these time periods I began to wonder about (and posit) categories such as 'causal system', and whether there are causal kinds (another unpublished paper as of August 2023). I also wondered if causality varied based on parts in relation to their whole. Hence, I coined the term 'mereocausality' to signify the (potential) causality/causation among parts and their whole or among types of parts.
+- [Proof of my ideation, as early as 2014 is at this link](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
   
 ## Relevant Works by Author
 - "Mereocausality & Causal Mereology: Towards a new concept", Paper accepted at [Ontobras seminar]([https://www.inf.ufrgs.br/ontobras/en/program/](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_MereocausalityAcceptance_Ontobras2023_1.PNG) ([accepted July 2023 as a Poster](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_OntoBras2023-Acceptance_Mereocausality.PNG))
