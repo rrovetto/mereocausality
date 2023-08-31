@@ -32,7 +32,7 @@ Causality, in particular, has been a longstanding intellectual interest since my
 - [Proof of my ideation, as early as 2014 is at this link](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
   
 ## Relevant Works by Author
-- "Mereocausality & Causal Mereology: Towards a new concept", Paper accepted at [Ontobras seminar]([https://www.inf.ufrgs.br/ontobras/en/program/](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_MereocausalityAcceptance_Ontobras2023_1.PNG) ([accepted July 2023 as a Poster](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_OntoBras2023-Acceptance_Mereocausality.PNG))
+- "Mereocausality & Causal Mereology: Towards a new concept", Paper accepted at [Ontobras seminar]([https://www.inf.ufrgs.br/ontobras/en/program/](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_MereocausalityAcceptance_Ontobras2023_1.PNG) ([accepted July 2023 as a Poster](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_OntoBras2023-Acceptance_Mereocausality.PNG)) but unable to attend in person so it was removed from program.
 - "Mereocausality: A new concept for ontology", poster submission accepted (but not presented) to OntoCommonss 2nd Global Workshop, May 2023.
 - "Mereocausality and Causal Mereology: Toward a new concept and study", submitted CARLA Workshop 2023
 
