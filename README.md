@@ -49,7 +49,24 @@ Causality, in particular, has been a longstanding intellectual interest since my
   - EKAW - International Conference on Knowledge Engineering and Knowledge Management
   - 7th FOUST workshop at FOIS 2023
 
-## Positive Reviews
+## Positive Reviews 
+From anonymous reviewers
+>"The author does raise some very interesting questions" 
+
+>"This paper is a little unconventional, but I find it interesting. It is written as someone from the Philosophy would write. 
+I like the attempts at the definitions that are intended to be adopted by others and I like the questions raised. 
+Overall, I find this to be a potentially useful paper, although certainly not light reading." 
+
+>"I volunteered to review this paper because I do think there is something interesting to be done using these phrases."
+
+>"This paper raises the interesting question about the relationship between mereology and causality."
+
+>"some [reviewers] also suggest that it does contain interesting ideas that could lead to research contributions."
+
+>"it brings a new brand idea on conceptual model, specially for ontologists, and ER conference is the correct forum for these scientific discussions and critics. A think the author can raise an interesting debate on the conference."
+
+>"Although being a preliminary proposition, the usea us appealing and should attrack the audience of formal ontology. The author deserves a slot to prove his point"
+(I assume the typos in the sentence are intended to be: "the idea is appealing")
 
 ## Copyright
 ©2014-2023, Robert J. Rovetto. All rights reserved.
