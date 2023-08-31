@@ -2,5 +2,5 @@
 
 I develop a causal version of Allen's Interval Algebra, applying the concept of causality to that of the temporal units in the Algebra.
 
-### Author
+## Author
 Robert J. Rovetto
