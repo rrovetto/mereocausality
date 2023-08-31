@@ -49,6 +49,8 @@ Causality, in particular, has been a longstanding intellectual interest since my
   - EKAW - International Conference on Knowledge Engineering and Knowledge Management
   - 7th FOUST workshop at FOIS 2023
 
+## Positive Reviews
+
 ## Copyright
 ©2014-2023, Robert J. Rovetto. All rights reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
