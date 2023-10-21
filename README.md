@@ -14,7 +14,8 @@ Causality, mereology, topology, mereotopology, philosophy of these concepts and 
 
 ## Status
 - In progress.
-- As a personal project, unfunded to date (since approx. 2014), support is needed.
+- As a personal project, unfunded to date (since approx. 2014), support is needed to pursue this promising line of research.
+- Initial concept paper complete, in-progress development paper, and in-progress applications paper.
 
 ## Support - How you can help
 You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposals, mentorship, etc. [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
@@ -30,24 +31,6 @@ You can help by offerring financial support, employment opportunities, graduate 
 Causality and mereology have been a primary interest of mine since my university studies (approx. 2003-2011), intended to be pursued were I to find a PhD study option. 
 Causality, in particular, has been a longstanding intellectual interest since my undergraduate studies (2003-2007), where I formally studied the philosphy of causality/causation. Interest in mereology began upon its discovery in my graduate studies (2009), which was followed by a research opportunity wherein I further researched causal theories and symbolic logic. In these time periods I began to wonder about (and posit) categories such as 'causal system', and whether there are causal kinds (another unpublished paper as of August 2023). I also wondered if causality varied based on parts in relation to their whole. Hence, I coined the term 'mereocausality' to signify the (potential) causality/causation among parts and their whole or among types of parts.
 - [Proof of my ideation, as early as 2014 is at this link](https://github.com/rrovetto/rrovetto/tree/main/affiliations-and-work/papers/mereocausality)
-  
-## Relevant Works by Author
-- "Mereocausality & Causal Mereology: Towards a new concept", Paper accepted at [Ontobras seminar](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_MereocausalityAcceptance_Ontobras2023_1.PNG) and ([accepted July 2023 as a Poster](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_OntoBras2023-Acceptance_Mereocausality.PNG)) but unable to attend in person so it was removed from program.
-- "Mereocausality: A new concept for ontology", poster submission accepted (but not presented) to OntoCommons 2nd Global Workshop, May 2023.
-- "Mereocausality and Causal Mereology: Toward a new concept and study", submitted CARLA Workshop 2023
-
-- Unpublished paper(s) (Sample titles: "Mereocausality and Causal Mereology") submitted to, but rejected from, workshops and journals since at least 2021:
-  - Analysis
-  - Inquiry, 2021
-  - Synthese journal
-  - Review of Metaphysics
-  - Journal of Philosophy
-  - Canadian Journal of Philosophy
-  - European Journal of Philosophy
-  - FOIS 2021 - International Conference on Formal Ontology in Information Systems
-  - ER-2022, International Conference on Coneptual Modeling
-  - EKAW - International Conference on Knowledge Engineering and Knowledge Management
-  - 7th FOUST workshop at FOIS 2023
 
 ## Positive Reviews 
 From anonymous reviewers
@@ -67,6 +50,12 @@ Overall, I find this to be a potentially useful paper, although certainly not li
 
 >"Although being a preliminary proposition, the usea us appealing and should attrack the audience of formal ontology. The author deserves a slot to prove his point"
 (I assume the typos in the sentence are intended to be: "the idea is appealing")
+  
+## Relevant Works by Author
+- "Mereocausality & Causal Mereology: Towards a new concept", Paper accepted at [Ontobras seminar](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_MereocausalityAcceptance_Ontobras2023_1.PNG) and ([accepted July 2023 as a Poster](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_OntoBras2023-Acceptance_Mereocausality.PNG)) but unable to attend in person so it was removed from program.
+- "Mereocausality: A new concept for ontology", poster submission accepted (but not presented) to OntoCommons 2nd Global Workshop, May 2023.
+- 
+- Unpublished paper(s) (Sample titles: "Mereocausality and Causal Mereology") submitted to, but rejected from, workshops and journals since at least 2021: Analysis, Inquiry (2021), Synthese, Philosophical Studies, Review of Metaphysics, Journal of Philosophy, Canadian Journal of Philosophy, European Journal of Philosophy, FOIS 2021 - International Conference on Formal Ontology in Information Systems, ER-2022 - International Conference on Coneptual Modeling, EKAW - International Conference on Knowledge Engineering and Knowledge Management, 7th FOUST workshop at FOIS 2023, CARLA Workshop 2023 ("Mereocausality and Causal Mereology: Toward a new concept and study"), ... .
 
 ## Copyright
 ©2014-2023, Robert J. Rovetto. All rights reserved.
