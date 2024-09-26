@@ -50,7 +50,10 @@ Overall, I find this to be a potentially useful paper, although certainly not li
 
 >"Although being a preliminary proposition, the usea us appealing and should attrack the audience of formal ontology. The author deserves a slot to prove his point"
 (I assume the typos in the sentence are intended to be: "the idea is appealing")
-  
+
+### Input from journal that rejected acceptance 
+>"The editors appreciated the originality of the proposal." (2024, Acta Philosophica)
+
 ## Relevant Works by Author
 - "Mereocausality & Causal Mereology: Towards a new concept", Paper accepted at [Ontobras seminar](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_MereocausalityAcceptance_Ontobras2023_1.PNG) and ([accepted July 2023 as a Poster](https://github.com/rrovetto/rrovetto/blob/9f69e17f2c6caae29cedcbd72a3e91176ffbb6d8/affiliations-and-work/papers/mereocausality/PROOF_OntoBras2023-Acceptance_Mereocausality.PNG)) but unable to attend in person so it was removed from program.
 - "Mereocausality: A new concept for ontology", poster submission accepted (but not presented) to OntoCommons 2nd Global Workshop, May 2023.
