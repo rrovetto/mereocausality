@@ -2,6 +2,8 @@
 
 I develop a novel concept that I call "mereocausality" (and cognates such as "mereocausation", "mereotopological causality", etc.). I combine the concepts of parthood and causality to posit that of mereocausality, asking questions of causality of parts and their composed whole. I combine the words 'causation' or 'causality' and 'mereology' to form the new name 'mereocausality' and 'mereocausation'. 'Mereo' is from the Greek 'μερος' or ‘part’, which is presently pronounced as 'meros'. 'αιτία' is Greek for 'cause'. I also develop the concept of _mereotopocausality_ and _causal mereotopology_ to further merge that of mereotopology, which in turn is a combination of mereology and topology. Causal mereotopology may become a new research topic in disciplines such as: philosophy, formal and applied ontology, knowledge representation and reasoning in AI, coneptual modeling, semantic analysis, etc.
 
+The core research question of mereocausality/mereotopocausality is: Assuming causality is something unto itself, does it express itself or vary according to the type and scale/granularity of parts of a system.
+
 ## Scope
 Causality, mereology, topology, mereotopology, philosophy of these concepts and theories thereof, formal ontological and conceptual analysis thereof, knowledge representaiton applied to these topics, etc.
 
